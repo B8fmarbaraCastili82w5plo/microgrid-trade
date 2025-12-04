@@ -1,0 +1,2 @@
+// Auto-generated file: D:\MyCode\zama\demo\frontend\web\src\simple-subscriptions-message.adoc
+// Generated at: 2025-10-03T05:12:56.628Z
